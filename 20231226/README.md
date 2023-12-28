@@ -5,7 +5,8 @@
 3. package behavior plannerのavoidance機能追加　どうすればいいかわからん
 4. local planner の pure pursuitの実装　どうみればいいかわからん
 5. moduleをautoware miniからautoware microに移植する方法わからん
-6. その他
+6. その他  
+   [webserver説明](https://github.com/ChallengeClub/aichallenge2023-racing-tips/blob/main/20231209/README.md)
 
 ## 参考URL
 autoware micro  
